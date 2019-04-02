@@ -9,7 +9,7 @@ You can find the direct link to the app [by clicking here.](https://itunes.apple
 
 
 ### Android
-
+You can find the direct link to the app [by clicking here.](https://play.google.com/store/apps/details?id=com.UofU_ECE_WeatherStation&hl=en) Otherwise search `UofU ECE Weather Station` in the Google Play Store to find the app.
 
 ## About Us
 The ECE Weather Station was designed by students from the Laboratory for NanoIntegrated Systems (LNIS) at the University of Utah. 
