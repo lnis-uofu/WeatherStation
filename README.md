@@ -1,11 +1,11 @@
 # WeatherStation
 This project is a personal Bluetooth weather station utilizing the ESP32 MCU. The ECE Weather Station collects temperature, humidity, and barometric pressure measurements and pushes the data to your smartphone through the custom app. 
 
-## Download The App
+<h2> Download The App <img src="img/uofu_ece.jpg" alt="Thumbnail" width="50" height="50" align="middle"></h2>
 The ECE Weather Station App is available through both the Apple Store and Google Play Store. 
 
 ### iOS
-<p>You can find the direct link to the app [by clicking here.](https://itunes.apple.com/us/app/uofu-ece-weather-station/id1400585038?mt=8) Otherwise search `UofU ECE Weather Station` in the Apple App Store to find the app. The thumbnail looks like this: <img src="img/uofu_ece.jpg" alt="Thumbnail" width="50" height="50" align="middle"></p>
+You can find the direct link to the app [by clicking here.](https://itunes.apple.com/us/app/uofu-ece-weather-station/id1400585038?mt=8) Otherwise search `UofU ECE Weather Station` in the Apple App Store to find the app.
 
 
 ### Android
